@@ -1,0 +1,72 @@
+#### divide
+
+(once)=(end)BG
+(once)=(start)CS
+(once)/=B,S
+# S0101B , S0101B
+
+
+# decode c
+0c=1
+1c=c0
+c=1
+
+
+# encode a
+S0=S
+SB=S
+0d=d1
+1d=0
+1B=0Ba
+0B=d1Ba
+S=
+
+
+# Caaaaa,aa$C
+a,a=aP$a
+
+b=(start)x
+$a=ba$
+# xxCaaaaa,aa$C
+
+
+e=(end)f
+
+
+xCa=C
+
+P=,
+(start)C,a=,x
+xa=x
+xL=LL
+xC,a=L,aL
+La=aL
+L$=
+# xC,a=L,aI
+# Ia=aI
+# I$=
+L,a=,
+x=
+
+G=0
+
+a=(end)A
+$=(start)D
+# A,D
+
+D=A
+(once)=(start)0
+
+0h=1
+1h=h0
+h=1
+1A=h0
+0A=1
+A=1
+
+(start)01=1
+,01=,1
+
+
+# clearnup
+

@@ -1,0 +1,72 @@
+#### add
+(once)=(end)B
+
+# encode a
++0=+
+0d=d1
+1d=0
+1B=0Ba
+0B=d1Ba
+
++B=
+
+# decode a
+0a=1
+1a=a0
+a=1
+
+
+#### subs
+
+(once)=(end)BE
+(once)=(start)S
+(once)-=BEMS
+
+# encode a
+S0=S
+SB=S
+0d=d1
+1d=0
+1B=0Ba
+0B=d1Ba
+
+S=
+E=
+
+# subs
+aMa=M
+M=
+
+# decode a
+0a=1
+1a=a0
+a=1
+
+
+# decode a
+0a=1
+1a=a0
+a=1
+
+
+
+####
+
+(start)0=
+(once)a=
+
+
+
+
+(once)=(end)e
+0e=1
+1e=d0
+1d=d0
+0d=1
+d=1
+
+
+(once)=(end)e
+0e=1
+1e=e0
+e=1

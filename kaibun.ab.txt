@@ -1,0 +1,25 @@
+
+# 1234321 => 123321
+aa=aDa
+bb=bEb
+cc=cFc
+
+ab=aGb
+bc=bHc
+ca=cIa
+
+ac=aJc
+ba=bKa
+cb=cLa
+
+DD=DdD
+EE=EeE
+FF=FfF
+GG=GgG
+HH=HhH
+II=IiI
+JJ=JjJ
+KK=KkK
+LL=LlL
+
+# WIP

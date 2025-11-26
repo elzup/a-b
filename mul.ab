@@ -1,0 +1,44 @@
+#### multiple
+
+
+
+(once)=(end)B$C
+(once)=(start)CS
+(once)*=B*S
+# S0101B * S0101B
+
+
+# decode c
+0c=1
+1c=c0
+c=1
+
+
+# encode a
+S0=S
+SB=S
+0d=d1
+1d=0
+1B=0Ba
+0B=d1Ba
+S=
+
+
+# aaa*aa$
+# aa*kaa$
+# aa*aak$aa
+ka=akb
+b=(end)c
+a*a=*ka
+*=
+
+
+
+# clearnup
+
+a=
+k=
+$=
+C=
+$=
+

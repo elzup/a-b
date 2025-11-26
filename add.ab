@@ -1,0 +1,18 @@
+### add
+(once)=(end)B
+
++0=+
++B=
+
+# encode a
+0d=d1
+1d=0
+
+1B=0Bk
+0B=d1Bk
+
+
+# decode a
+0k=1
+1k=k0
+k=1
