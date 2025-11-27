@@ -1,0 +1,59 @@
+# sort b,a,c
+# b=aDDEEc
+# ED=DE
+# ba=ab
+# cb=bc
+# ca=ac
+# aD=X
+# Ec=Y
+
+ba=ab
+cb=bc
+ca=ac
+
+aa=(return)false
+abbccc=(return)true
+a=(return)false
+bc=
+c=(return)true
+=(return)false
+
+bbccc=(return)true
+bcc=(return)true
+
+aa=(return)false
+abbccc=(return)true
+a=(return)false
+cc=(return)true
+
+Bbccc
+Bbbcccc
+
+b=B
+
+# bad pattern
+# abcc
+# acc
+
+# b=1
+# bcc+
+
+# b=2
+# abbccc+
+# bbccc+
+#
+# b=3
+# bbbcccc
+
+ab=X
+# abcc →
+bc=Y
+# b=1
+# Yc+
+
+# b=2
+# aKc+
+# Kc+
+#
+# b=3
+# bKcc

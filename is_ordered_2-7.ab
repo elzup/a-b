@@ -1,0 +1,31 @@
+
+# sort b,a,c
+ba=ab
+cb=bc
+ca=ac
+
+# length <= 7
+# aa bbb cccc(x)
+aa=(return)false
+
+# ok
+# a=1
+# a bb ccc (c>=3)
+abbccc=(return)true
+# a bbb cccc(x)
+acccc=(return)false
+a=(return)false
+# a=0
+bc=T
+bTc=T
+Tc=(return)true
+=(return)false
+
+
+# ok
+# abbccc+
+# bc
+#   bcc
+#  bbccc
+# bbbcccc
+

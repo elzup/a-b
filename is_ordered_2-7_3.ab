@@ -1,0 +1,52 @@
+# sort b,a,c
+ba=ab
+cb=bc
+ca=ac
+aa=(return)false
+abc=(return)false
+cccc=(return)true
+bbb=(return)false
+bbccc=(return)true
+=(return)false
+
+abc=(return)false
+bc=
+c=(return)true
+=(return)false
+
+Xc=(return)true
+=(return)false
+
+#bYc=Y
+Yc=(return)true
+=(return)false
+
+# c
+# bcc
+# bbccc
+# bbbcccc
+#
+# bbbccc bbYcc
+# bbbcccc Yc
+# abbccc XYc
+
+# b=1
+# bcc+
+
+# b=2
+# abbccc+
+# bbccc+
+#
+# b=3
+# bbbcccc
+
+bbcc=K
+# b=1
+# bcc+
+
+# b=2
+# aKc+
+# Kc+
+#
+# b=3
+# bKcc

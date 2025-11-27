@@ -1,0 +1,21 @@
+
+# sort b,a,c
+ba=ab
+cb=bc
+ca=ac
+b=BD
+DB=BD
+
+aB=K
+aKB=K
+# aaBBBDDDcccc
+# aKBBDDDcccc
+Dc=L
+DLc=L
+# KBDDLccc
+# KBLc
+# c => c
+# abbccc # aBBDDccc # KBLc
+a=(return)false
+BLc=(return)true
+=(return)false
