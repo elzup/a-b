@@ -1,0 +1,14 @@
+# sort b,a,c
+
+c=abCC
+ba=ab
+Cb=bC
+Ca=aC
+
+ab=t
+tb=bt
+a=(return)false
+t=b
+bC=
+C=(return)true
+=(return)false

@@ -1,0 +1,18 @@
+# sort b,a,c
+
+a=bbc
+cb=bc
+bc=
+
+ccc=(return)true
+=(return)false
+
+# c - b > 0
+# b - a > 0
+
+# 0 <= a <= 1
+# 1 <= b <= 3
+# 2 <= c <= 4
+# a + b + c <= 7
+# 1 <= x, y
+# n <= (a * y + c) - (a * x + b)
