@@ -1,0 +1,10 @@
+(once)=(start)+
+(once)=(end)$
++a=a+>a
++b=b+>b
++c=c+>c
+
+>a=(end)a
+>b=(end)b
+>c=(end)c
++$=
