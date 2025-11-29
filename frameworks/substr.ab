@@ -1,0 +1,11 @@
+
+(once)=(start)+........
+..a=a.
+..b=b.
+..c=c.
+
+# abcde
+# =>
+# +a....bcde
+# +ab..cde
+# +abc.de
