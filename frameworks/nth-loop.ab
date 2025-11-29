@@ -1,0 +1,14 @@
+(once)b=b>
+
+# 2 loop
+
+>a=b>
+>c=c>
+>b=b>
+
+1>1=
+(end)>=(start)1>
+
+# after
+>=
+<=
