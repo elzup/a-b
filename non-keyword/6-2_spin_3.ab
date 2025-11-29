@@ -1,0 +1,46 @@
+
+# force even
+aa=BAAAABBAAAAB
+# aA=BAAAABA
+# Aa=ABAAAAB
+aB=BAAAABB
+Ba=BBAAAAB
+b=BBAABB
+c=BBBBBB
+
+Bx=x
+Ax=x
+xo=x
+oo=o
+
+A^=^A
+B^=^B
+^=>
+
+>AA=A>A
+>AB=B>A
+>BA=A>B
+>BB=B>B
+
+#
+A>A=o
+B>B=o
+
+#
+# ^>=o
+>B=x
+>A=x
+A=^A
+B=^B
+
+
+# A=
+# B=
+# oo=o
+# ox=x
+# xo=x
+# xx=x
+
+o=true
+x=false
+
