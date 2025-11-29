@@ -1,0 +1,45 @@
+# sort b,a,c
+
+ba=ab
+cb=bc
+ca=ac
+
+b=BBBBBBBB
+aBBBBBBB=
+
+# kc
+
+# BBBB      o ccc
+# BBBBB     o cc
+# BBBBBB    o c
+
+# BBBBBBB   x
+# BBBBBBB B x
+# BBBBBBB BBBBBB    o
+# BBBBBBB BBBBBBB B x
+
+Bc=
+BBBB=
+
+Bc=(return)true
+=(return)false
+
+
+####
+
+ba=ab
+cb=bc
+ca=ac
+
+b=kl
+lk=kl
+
+# akkllccc
+ak=
+lc=
+# kc
+kc=(return)true
+=(return)false
+
+
+

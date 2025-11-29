@@ -1,18 +1,28 @@
 # sort b,a,c
 
-a=bbc
+ca=ac
+ab=ba
 cb=bc
-bc=
 
-ccc=(return)true
-=(return)false
+# bbaccc
 
-# c - b > 0
-# b - a > 0
+bcc=(return)true
+bbaccc=(return)true
+aa=(return)false
+bc=(return)false
+=(return)true
+
+
+# c - b >= 1
+# b - a >= 1
 
 # 0 <= a <= 1
 # 1 <= b <= 3
 # 2 <= c <= 4
+
+# 0 <= a, b, c
 # a + b + c <= 7
 # 1 <= x, y
 # n <= (a * y + c) - (a * x + b)
+
+# n <= (D) - (E)

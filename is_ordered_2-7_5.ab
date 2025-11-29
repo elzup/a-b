@@ -1,14 +1,35 @@
 # sort b,a,c
 
-c=abCC
-ba=ab
-Cb=bC
-Ca=aC
 
-ab=t
-tb=bt
-a=(return)false
-t=b
-bC=
-C=(return)true
-=(return)false
+b=aaaaaaaaa # 8 + 1
+ca=ac
+
+aaaaaaaaac=
+
+
+BBBBBBBc=(return)false
+=(return)true
+
+#
+
+b=zzzzzzzz # 4 * 2
+c=zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz # 8 * 4
+
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz=
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz=C
+zzzzzzzzz=
+zzzzzzzz=B
+
+#
+
+b=zzzzzzzzzzzzzzzzz # 16 + 1
+c=zzzzzzzzzzzzzzzz # 16
+za=az
+aa=(return)false
+
+az=
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz=
+zzzzzzzzzzzzzzzz=C
+
+
+azzyyyycccc
