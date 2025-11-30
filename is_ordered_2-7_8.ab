@@ -1,0 +1,25 @@
+# sort b,a,c
+
+ba=ab
+cb=bc
+ca=ac
+
+aa=(return)false
+ab=AB
+bc=BC
+
+abbccc=(return)true
+a=(return)false
+bbccc=bcc
+bb=(return)false
+=(return)true
+
+# b=1
+# BCC
+
+# b=2
+# abBCCc+ aBCC
+# bBCCc+ $BCC
+#
+# b=3
+# bbBCCcc BCC

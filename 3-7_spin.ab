@@ -1,0 +1,9 @@
+a.A.=
+b.B.=
+c.C.=
+(start)a=(end).A.
+(start)b=(end).B.
+(start)c=(end).C.
+
+..=(return)false
+=(return)true

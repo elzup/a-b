@@ -1,12 +1,12 @@
-ba=ab
-cb=bc
+cba=(start)x
 ca=ac
+cb=bc
+(end)ab=(start)x
+ba=ab
 
-b=<>
-><=<>
-a<=
->c=
-ac=
-a=(return)a
-c=(return)c
-=(return)b
+ab=(end)ba
+ac=(start)x
+bc=(start)x
+xa=aa
+xb=bb
+xc=cc
