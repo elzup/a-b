@@ -1,11 +1,11 @@
-(once)=(start)+........ # n=3 => 2^3 - 1
+(once)=(start)....... # n=3 => 2^3 - 1
+
 ..a=a.
 ..b=b.
 ..c=c.
-#
-+a=a+>a
-+b=b+>b
-+c=c+>c
->a=(end)a
->b=(end)b
->c=(end)c
+.a=Aa
+.b=Bb
+.c=Cc
+A=(end)a
+B=(end)b
+C=(end)c
