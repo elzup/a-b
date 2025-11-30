@@ -1,0 +1,15 @@
+abc=
+abbc=b
+bbb=bb
+
+# abbbbcc a
+# bbbbccc a
+
+ba=ab
+cb=bc
+ca=ac
+
+
+bc=(return)a
+ab=(return)c
+=(return)b
